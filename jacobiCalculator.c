@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 #define LEN 256
-
+////////////////// ALGORITH THAT CREATE A RANDOM MATRIX AND MAKE IT DIAGONALLY DOMINANT //////////////////////
 int main(){
 	
 	// Dilwsi metavlitwn
